@@ -1,0 +1,32 @@
+
+
+.header-container {
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 25px;
+
+  }
+  .icon{
+    margin-right: 10px;
+    font-size: 24px;
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+    width: 100%; 
+  }
+  
+  .icon {
+    margin-right: 10px;
+  }
+  
+  .navbarheader {
+    display: flex;
+    align-items: center;
+    margin-left: auto; 
+    justify-content: space-between;
+    width: 30%; 
+  }
+  
